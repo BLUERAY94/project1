@@ -14,6 +14,7 @@ source.dir = .
 
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = py,png,jpg,kv,atlas
+p4a.branch = release-2022.12.20
 
 # (list) List of inclusions using pattern matching
 #source.include_patterns = assets/*,images/*.png
